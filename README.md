@@ -1,4 +1,4 @@
-### 🐍 My Contributions Snake
+### 🐍 Snaaaakeeee
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/prime666-png/prime666-png/blob/output/github-contribution-grid-snake-dark.svg">
